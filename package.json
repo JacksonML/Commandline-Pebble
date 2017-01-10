@@ -1,0 +1,36 @@
+{
+    "author": "jacksonmlucas@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "commandline",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Commandline",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "backgroundColor": 3,
+            "batterySlider": 2,
+            "dateSlider": 0,
+            "textColor": 4,
+            "twentyFourHourFormat": 5,
+            "weatherSlider": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "44f66792-87e0-41b1-9e23-584b0a7344fa",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
